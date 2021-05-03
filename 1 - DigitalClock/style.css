@@ -1,0 +1,31 @@
+body{
+    background: #bae4cc;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+}
+#banner{
+    margin-top: 50px;
+    background: #ffa67a;
+    padding-top: 20px;
+    color: #fafbfc;
+    font-size: 20px;
+}
+#clock{
+    background: #ffa67a;
+    padding-bottom: 20px;
+    color: #fafbfc;
+    font-size: 150px;
+}
+.h1{
+    color: #fafbfc;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 135px;
+}
+#myName{
+    margin-bottom: -50px;
+    color: #fafbfc;
+    font-size: 20px;
+}
